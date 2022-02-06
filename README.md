@@ -1,5 +1,5 @@
-# hola-mundo
-mi primer repositorio de prueba | LaunchX
+# Hola Mundo
+mi primer repositorio | LaunchX
 
 Autor: Oscar M.
 Fecha: 6 de Febrero 2022.
